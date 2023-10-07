@@ -1,0 +1,33 @@
+*{
+    background-color: slategray;
+}
+h1 {
+    color:  brown;
+    font: 60px;
+    text-align: center;
+    background-color: aliceblue;
+}
+img {
+    height: 200px;
+    width: fit-content;
+    margin-right: 400px;
+    margin-left: 600px;
+
+}
+a{
+    margin: auto;
+}
+a[href="www.google.com"]{
+    color: red;
+}
+#link{
+    display: flex;
+    text-decoration: none;
+   
+}
+#p1 {
+    color: beige;
+}
+.c1{
+    color: black;
+}
